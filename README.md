@@ -2,7 +2,6 @@
 
 <img alighn="right" alt="something" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/550a2f37061861.5733485064a6d.gif"/>
 
-###<p align="left"> <img src="https://komarev.com/ghpvc/?username=whyflue&label=Profile%20views&color=0e75b6&style=flat" alt="whyflue" /> </p>
 
 - 💬 Don't ask me about **HolyC, Befunge** 
 
