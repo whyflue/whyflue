@@ -1,6 +1,6 @@
 <h3 align="center">I'm lowskill fullstack developer from Yugoslavia</h3>
 
-<img alighn="right" alt="something" width="400" src="https://i.pinimg.com/originals/5b/e7/14/5be714881bbe562fb5e51c24ae773159.gif"/>
+<img alighn="right" alt="something" width="800" src="https://i.pinimg.com/originals/5b/e7/14/5be714881bbe562fb5e51c24ae773159.gif"/>
 
 
 - 💬 Don't ask me about **HolyC, Befunge** 
