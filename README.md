@@ -12,7 +12,7 @@
 <h3 align="center">Hidden Stack:</h3>
 <p align="center"> <a href="https://templeos.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/HolyC_Logo.svg/1024px-HolyC_Logo.svg.png?20201031010606" alt="holyc" width="40" height="50"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </p>
 
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whyflue&" alt="whyflue" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whyflue&show_icons=true&locale=en&layout=compact" alt="whyflue" /></p>
+<p align="left"><img height="190em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whyflue&" alt="whyflue" /> <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whyflue&show_icons=true&locale=en&layout=compact" alt="whyflue" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whyflue&show_icons=true&locale=en" alt="whyflue" /></p>
 
