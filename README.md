@@ -1,6 +1,8 @@
+<h>---WhyFlue---</h>
+
 <h3 align="center">I'm lowskill fullstack developer from Yugoslavia</h3>
 
-<p align="left"><img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=whyflue&theme=github_dark&show_icons=true&locale=en" alt="whyflue" /> <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whyflue&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="whyflue" /></p>
+<p align="center"><img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=whyflue&theme=github_dark&show_icons=true&locale=en" alt="whyflue" /> <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whyflue&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="whyflue" /></p>
 
 <img alighn="center" alt="something" width="850" src="https://i.pinimg.com/originals/5b/e7/14/5be714881bbe562fb5e51c24ae773159.gif"/>
 
