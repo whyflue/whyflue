@@ -4,11 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whyflue&label=Profile%20views&color=0e75b6&style=flat" alt="whyflue" /> </p>
 
-- 💬 Ask me about **HolyC, Befunge**
-
-- 📫 How to reach me **lowflowpip@gmail.com**
-
-- ⚡ Fun fact **unfunny**
+- 💬 Don't ask me about **HolyC, Befunge** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
