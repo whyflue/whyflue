@@ -14,6 +14,6 @@
 
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whyflue&" alt="whyflue" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whyflue&show_icons=true&locale=en&layout=compact" alt="whyflue" /></p>
 
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whyflue&show_icons=true&locale=en" alt="whyflue" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whyflue&show_icons=true&locale=en" alt="whyflue" /></p>
 
 
